@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-**Sadik281/Sadik281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack Web Development and Android applications.<br><br>👯 I’m looking to collaborate on open-source projects, web applications, and Android apps.<br><br>🤝 I’m looking for help with system design, backend development, and open-source contributions.<br><br>🌱 I’m currently learning React, Kotlin, Firebase, and modern software architecture.<br><br>💬 Ask me about Web Development, Android Development, Firebase, Java, C, and Git.<br><br>⚡ Fun fact: I enjoy turning ideas into real-world projects and I'm always learning something new.
 
